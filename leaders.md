@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Deniz Bektas](mailto:deniz.bektas@owasp.org)
+* [Muhammed Batuhan Aydın](mailto:muhammed.aydin@owasp.org)
+* [Berfin Yasar](mailto:berfin.yasar@owasp.org)
