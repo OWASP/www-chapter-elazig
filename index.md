@@ -1,11 +1,10 @@
-
 ---
 
 layout: col-sidebar
 title: OWASP Elazig
-tags: owaspelazig
+tags: owaspmsku
 region: Asia
-meetup-group:
+meetup-group: 
 
 ---
 
