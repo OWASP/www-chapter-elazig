@@ -1,9 +1,10 @@
+
 ---
 
 layout: col-sidebar
 title: OWASP Elazig
-tags: example-tag
-region: Europe
+tags: owaspelazig
+region: Asia
 meetup-group:
 
 ---
@@ -11,58 +12,40 @@ meetup-group:
 ## Welcome
 Welcome to OWASP Elazig. We will be happy to see you if you join us! Thanks to the informatics departments at Fırat University, which it hosts, Elazig meets the cyber security specialist needs of Turkey. As OWASP Elazig, we organise Meetups, conferences, professional speaker series, workshops and inspiring presentations about Cyber Security.
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+## Chapter Information
+OWASP Elazig was established in September 2022 as a city society. The first meeting with Cyber Security Fundamentals and OWASP Introduction will be held on 19 September 2022. As OWASP Elazig, we continue free and open meetings that focus on content that participants can implement in their own environment.
 
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
+Keep watching this space for announcements about upcoming events. Everyone is welcome to join us at our chapter meetings. For more detailed information about the OWASP Elazig Chapter, contact the chapter leaders:
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+ - [Deniz Bektaş](mailto:deniz.bektas@owasp.org)
+ - [Muhammed Batuhan Aydın](mailto:muhammed.aydin@owasp.org)
+ - [Berfin Yaşar](mailto:berfin.yasar@owasp.org)
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
-<!-- You should delete this comment
+## Benefits of Attending Meetings
+-   Networking
+-   Cyber Security knowledge sharing
+-   Gaining different perspectives
+-   Have fun!
+## Membership
+The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
 
-Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+Chapters are led by local leaders in accordance with the  [Chapters Policy](https://owasp.org/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button.
 
-{front matter for this file}
+-   Everyone is welcome and encouraged to participate in our  [Projects](https://owasp.org/projects/),  [Local Chapters](https://owasp.org/chapters/),  [Events](https://owasp.org/events/),  [Online Groups](https://groups.google.com/a/owasp.com/), and  [Community Slack Channel](https://owasp.slack.com/).We especially encourage diversity in all our initiatives.
+-   OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert.
+-   We also encourage you to be  [become a member](https://owasp.org/membership/)  or consider a  [donation](https://owasp.org/donate/)  to support our ongoing work.
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+## Supporters
+OWASP finances the projects and its organization through sponsors. A sponsor sustainably supports the work of OWASP. You have two options - which you can also use both in parallel - to support OWASP. We would be very happy about that:
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+-   Become an  [OWASP Corporate Supporter](https://owasp.org/supporters/)
+-   Support the chapter as an  [OWASP Elazig Chapter Supporter](https://owasp.org/donate/?reponame=www-chapter-elazig&title=OWASP+Elazig+Chapter)
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+In particular, please take note of the  [OWASP Donations Policy](https://owasp.org/www-policy/operational/donations).
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Next Meeting/Event
----------------------
-{% comment %}
-{% include chapter_events.html group=page.meetup-group %}
-{% endcomment %}
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+## Presentations and Professional Speakings
+If you like to speak on our upcoming events, please review the  [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement)  and kindly email us  [Deniz Bektas](mailto://deniz.bektas@owasp.org),  [Muhammed Batuhan Aydın](mailto://muhammed.aydin@owasp.org)  &  [Berfin Yaşar](mailto://berfin.yasar@owasp.org)
