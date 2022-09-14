@@ -8,6 +8,8 @@ meetup-group:
 
 ---
 
+![OWASP Elazig](assets/images/owasp-logo.png)
+
 ## Welcome
 Welcome to OWASP Elazig. We will be happy to see you if you join us! Thanks to the informatics departments at Fırat University, which it hosts, Elazig meets the cyber security specialist needs of Turkey. As OWASP Elazig, we organise Meetups, conferences, professional speaker series, workshops and inspiring presentations about Cyber Security.
 
