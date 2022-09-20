@@ -3,7 +3,7 @@
 * [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
 
 ### Social Links
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owasp-elazig-chapter/)
 * [Twitter](https://twitter.com/OWASPElazig)
 * [Linkedin](https://www.linkedin.com/company/owasp-elazig/)
 * [Instagram](https://www.instagram.com/owasp.elazig/)
