@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Elazig
 tags: owaspmsku
 region: Asia
-meetup-group: 
+meetup-group: owasp-elazig-chapter
 
 ---
 
